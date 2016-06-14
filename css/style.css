@@ -1,0 +1,241 @@
+/*
+The CSS code gets to executed from top to bottom and left ro right
+*/
+
+
+/* CSS reset
+(all the browsers will see the website in the same by setting every tag to 0 (the website will look the same on all browsers))
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    /*The box-sizing property is used to tell the browser what the sizing properties (width and height) should include border-box.*/
+    box-sizing: border-box;
+    /*reset Chrome user agent styles*/
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-before: 0px;
+    -webkit-padding-after: 0px;
+    -webkit-padding-start: 0px;
+    -webkit-padding-end: 0px;
+}
+
+
+/* General styles
+(the styles used everywhere in the page (like the Body) or styles which are used in more than 2 of the modules bellow (h2, h3, h4, h5, h6, p, a, ul, li))
+*/
+
+body {
+    font-size: 16px;
+    font-family: 'Special Elite', cursive;
+    background-image: url(../images/camera-min.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+button {
+    text-transform: uppercase;
+    border-radius: 4px;
+    color: white;
+    background-color: darkorange;
+}
+
+.startQuiz {
+    height: 3rem;
+    width: 11rem;
+    margin: 2rem auto;
+    font-family: 'Special Elite', cursive;
+}
+
+
+/* Header styles
+(all the styles inside the < header > or < nav > tags)
+*/
+
+header {
+    height: 5rem;
+    width: 60rem;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 175%;
+}
+
+
+/* Content styles
+(all the styles inside the < sections > or < aside > tags)
+*/
+
+
+/*Intro Slide*/
+
+.introduction {
+    height: 22.5rem;
+    width: 36rem;
+    background-color: bisque;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    -webkit-box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
+}
+
+.introduction h2.top-rule {
+    padding-top: 8rem;
+    font-size: 1.15rem;
+}
+
+.introduction h2 + h2 {
+    margin-top: 1.25rem;
+}
+
+
+/*Questions Section*/
+
+.questions {
+    height: 45rem;
+    width: 55rem;
+    background-color: bisque;
+    margin: 1rem auto;
+    text-align: center;
+    -webkit-box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
+}
+
+.questions h2 {
+    margin-bottom: 1rem;
+    padding-top: 1rem;
+    font-size: 1.2rem;
+    font-family: 'Courgette', cursive;
+}
+
+.questions img {
+    width: 75%;
+}
+
+.questions .option {
+    margin-right: 2rem;
+}
+
+.questions .choices {
+    width: 40%;
+    margin: 1rem auto;
+    text-align: left;
+    font-size: 1.2rem;
+    font-family: 'Courgette', cursive;
+}
+
+.questions .choices li {
+    padding: 8px;
+}
+
+.questions .guess {
+    height: 2rem;
+    width: 6rem;
+    margin-bottom: 1rem;
+}
+
+.questions .question-tracker {
+    float: left;
+    color: #073610;
+    margin-left: 1rem;
+    margin-top: -1rem;
+}
+
+.questions .score-tracker {
+    color: #073610;
+    float: right;
+    margin-right: 1rem;
+    margin-top: -1rem;
+}
+
+
+/*Final Results*/
+
+.final {
+    height: 45rem;
+    width: 55rem;
+    background-color: bisque;
+    margin: 0 auto 5rem auto;
+    text-align: left;
+    overflow: scroll;
+    -webkit-box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
+}
+
+.final h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    color: #073610;
+}
+
+.final .answers {
+    margin-top: 1em;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.final .answer-image {
+    width: 19%;
+}
+
+.final .answer-image img {
+    width: 100%;
+}
+
+.final .answer-image img:hover {
+    width: 102%;
+    border: 1px solid black;
+}
+
+.final .answer-text,
+.final .answer-image {
+    float: left;
+    margin-top: 1rem;
+}
+
+.final .answer-text {
+    width: 80%;
+    font-family: 'Courgette', cursive;
+    font-size: 1.15rem;
+    border-top: 1px solid black;
+}
+
+.final .answer-text p {
+    padding-top: 1rem;
+}
+
+.final .resetGame {
+    clear: both;
+    text-align: center;
+}
+
+
+/*.final .tryAgain {
+    height: 3rem;
+    width: 11rem;
+    margin: 2rem auto;
+}*/
+
+
+/* Footer styles
+(all the styles inside the < footer > tag)
+*/
+
+
+/* Responsive styles
+(the very last module in the CSS, contains all the media queries and it is dealing with the compatibility with mobiles and tablets)
+*/
