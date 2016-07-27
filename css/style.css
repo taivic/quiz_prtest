@@ -15,9 +15,9 @@ The CSS code gets to executed from top to bottom and left ro right
     /*The box-sizing property is used to tell the browser what the sizing properties (width and height) should include border-box.*/
     box-sizing: border-box;
     /*reset Chrome user agent styles*/
-    -webkit-margin-before: 0px;
-    -webkit-margin-after: 0px;
-    -webkit-margin-start: 0px;
+        -webkit-margin-before: 0px;
+        -webkit-margin-after: 0px;
+        -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
     -webkit-padding-before: 0px;
     -webkit-padding-after: 0px;
@@ -50,6 +50,8 @@ button {
 }
 
 .startQuiz {
+    
+    
     height: 3rem;
     width: 11rem;
     margin: 2rem auto;
@@ -105,11 +107,11 @@ header {
     height: 45rem;
     width: 55rem;
     background-color: bisque;
-    margin: 1rem auto;
-    text-align: center;
-    -webkit-box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
-    box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
+        margin: 1rem auto;
+        text-align: center;
+        -webkit-box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
+        box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
 }
 
 .questions h2 {
@@ -132,7 +134,7 @@ header {
     margin: 1rem auto;
     text-align: left;
     font-size: 1.2rem;
-    font-family: 'Courgette', cursive;
+    font-family: "Courgette", cursive;
 }
 
 .questions .choices li {
@@ -163,13 +165,13 @@ header {
 /*Final Results*/
 
 .final {
-    height: 45rem;
-    width: 55rem;
-    background-color: bisque;
-    margin: 0 auto 5rem auto;
-    text-align: left;
-    overflow: scroll;
-    -webkit-box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
+        height: 45rem;
+        width: 55rem;
+        background-color: bisque;
+        margin: 0 auto 5rem auto;
+        text-align: left;
+        overflow: scroll;
+        -webkit-box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
     box-shadow: 0px 0px 20px 3px rgba(0, 0, 0, 0.75);
 }
