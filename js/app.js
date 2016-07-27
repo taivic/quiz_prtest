@@ -140,17 +140,17 @@ function tryAgain() {
 //Step 3 Use Functions
 $(document).ready(function () {
     //on page load
-    $('.questions').hide();
-    $('.final').hide();
-    $('.introduction').show();
+$('.questions').hide();
+$('.final').hide();
+$('.introduction').show();
 
-    //starts quiz
-    $('#start').on('click', function () {
-        $('.introduction').hide();
-        $('.final').hide();
-        $('.questions').show();
-        displayQuestions();
-    })
+//starts quiz
+$('#start').on('click', function () {
+    $('.introduction').hide();
+    $('.final').hide();
+    $(".questions").show();
+    displayQuestions();
+})
 
     //hits guess button
     $('#submit').on('click', function () {
