@@ -1,0 +1,288 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gam",
+				"gameLocations"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"cu",
+				"currentOX-1"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"cur",
+				"currentSelection"
+			],
+			[
+				"current",
+				"currentQuestion"
+			],
+			[
+				"next",
+				"nextQuestion"
+			],
+			[
+				"shoppin",
+				"shopping-list-entry"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/Capstone-1/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/Capstone-1/main.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/Capstone-1/app.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/quiz-app/Qs and As",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/contacts/app.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/stackerAJAX/css/main.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/quiz-app/app.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/contacts/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/Capstone 1/main.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/Capstone 1/app.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/Capstone 1/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/thinkfultictac/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/thinkfultictac/main.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/thinkfultictac/app.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/tic/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/tic/main.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/tic/app.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/tictactoe/app.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/tictactoe/main.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/tictactoe/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/tic/style.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/stackerAJAX/js/app.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/stackerAJAX/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/thinkful-tube/app.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/thinkful-tube/main.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/thinkful-tube/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/thinkful-tube/read me",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/coding-with-APIs/app.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/coding-with-APIs/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/contacts/styles.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/quiz-app/styles.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/quiz-app/main.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/hot-or-cold-starter/js/app.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/test/house.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/test/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/fizzbuzz-refactor/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/fizzbuzz-refactor/app.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/shopping-list/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/jquery-streetfighter/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/jquery-streetfighter/js/app.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/fizzbuzz/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/fizzbuzz/app.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/jquery-streetfighter/css/main.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/Hello World/jquery-3.1.0.js",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/star-wars-responsive-challenge-starter-files/style.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/star-wars-responsive-challenge-starter-files/grid.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/star-wars-responsive-challenge-starter-files/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/responsive-grid-example-and-challenge-starter-files/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/responsive-grid-example-and-challenge-starter-files/css/float-grid.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/responsive-grid-example-and-challenge-starter-files/css/main.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/css-layout-challenge/index.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/css-layout-challenge/main.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/main.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/css_layout_exercises_starter_files/styles/position-page.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/css_layout_exercises_starter_files/position-exercise.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/css-layout-challenge/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/css-layout-challenge/main.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/css_layout_exercises_starter_files/styles/float-page.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/css_layout_exercises_starter_files/float-exercise.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/css_layout_exercises_starter_files/styles/display-page.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/css_layout_exercises_starter_files/display-exercise.html",
+		"/C/Users/Vicky Tai/css_layout_exercises_starter_files/display-exercise.html",
+		"/C/Users/Vicky Tai/css_layout_exercises_starter_files/styles/display-page.css",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/sally-resume/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/about-me/index.html",
+		"/C/Users/Vicky Tai/Desktop/PROJECTS/about-me/main.css"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{}",
+			"location",
+			"-1",
+			"'",
+			"250",
+			"h5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
